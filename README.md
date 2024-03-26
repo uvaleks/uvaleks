@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi there. I am Aleksey<br><br>💻 Full Stack Developer</h3>
 <h1></h1>
 <p>⚡ I have made a career in cybersecurity by providing security for web applications</p>
-  
-<p>⭐ I realized that the user experience, design and functions of the product are most important to me. That's why I studied the most up-to-date development tools & languages to became a full stack developer</p>
-<p>🗣 C1 Advanced English level</p>
+<p>⭐ I realized that the user experience, design and functions of the product are most important to me</p>
+<p>✨ That's why I studied the most up-to-date development tools & languages to became a full stack developer</p>
+<p>💬 C1 Advanced English level</p>
 <p>👀 Lookin for a job</p>
 <h1></h1>
 <h3 align="center">🛠 Languages & Tools</h3>
