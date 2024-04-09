@@ -19,6 +19,7 @@
   ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
 
 <p>Design:</p>
 
@@ -58,9 +59,15 @@
   
 </p>
 <h1></h1>
-<h3 align="center">📈 My Stats</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 <div align="center" id="stat">
   <a href="https://github.com/uvaleks">
     <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvaleks&theme=dark"/>
   </a>  
+</div>
+<h3 align="center">🎯 LeetCode Stats</h3>
+<div align="center">
+  
+  [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Uvaleks&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  
 </div>
