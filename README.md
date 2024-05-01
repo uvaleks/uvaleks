@@ -2,11 +2,11 @@
   <img src="uvaleks-avatar.png" alt="Uvaleks Avatar" width="180">
 </p>
 
-<h2 align="center">Uvaleks — Frontend/Fullstack Web Developer 👨‍💻</h2>
-<p>⚡ I have made a cybersecurity career providing web apps security</p>
+<h2 align="center">Uvaleks — Frontend Developer 👨‍💻</h2>
 <p>⭐ UX Dog (I'm trying to be). Product design that benefits users drive me</p>
-<p>✨ Full stack developer</p>
+<p>⚡ I have made a cybersecurity career providing web apps security</p>
 <p>💬 B2 Upper-Intermediate English level</p>
+<p>✨ I have full-stack developer skills</p>
 <p>👀 Lookin for a job</p>
 <h1></h1>
 <h3 align="center">🛠 Languages & Tools</h3>
