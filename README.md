@@ -2,11 +2,10 @@
   <img src="uvaleks-avatar.png" alt="Uvaleks Avatar" width="180">
 </p>
 
-<h2 align="center">Uvaleks — Frontend Developer 👨‍💻</h2>
-<p>⭐ UX Dog (I'm trying to be). Product design that benefits users drive me</p>
-<p>⚡ I have made a cybersecurity career providing web apps security</p>
+<h2 align="center">Uvaleks — Team Lead | Frontend Developer 👨‍💻</h2>
+<p>🐶 UX Dog. I create web application interfaces that increase CSI and business profits</p>
+<p>⭐ 3 years of experience leading a cross-functional web development team</p>
 <p>💬 B2 Upper-Intermediate English level</p>
-<p>✨ I have full-stack developer skills</p>
 <p>👀 Lookin for a job</p>
 <h1></h1>
 <h3 align="center">🛠 Stack</h3>
@@ -18,9 +17,9 @@
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
   ![NextJS Badge](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge)
-  ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
-  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+<!--![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge))
+  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)-->
 
 <p>CI/CD:</p>
 
@@ -53,9 +52,11 @@
 
 <p>Build:</p>
 
-  ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
+  ![Vite Badge](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
   ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
   ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
+  ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
+  ![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge)
 
 <p>Backend:</p>
 
